@@ -24,4 +24,8 @@ website:
     search: true
     contents:
       - "index.ipynb"
-      - "reference.ipynb"
+      - section: "CI/CD"
+        contents:
+        - "cicd/runner.ipynb"
+        - "cicd/pipeline.ipynb"
+        - "cicd/job.ipynb"

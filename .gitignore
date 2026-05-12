@@ -176,3 +176,5 @@ site_libs/
 figs/
 *_files/
 _extensions/
+
+**/*.quarto_ipynb
