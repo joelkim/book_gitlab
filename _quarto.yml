@@ -27,5 +27,6 @@ website:
       - section: "CI/CD"
         contents:
         - "cicd/runner.ipynb"
+        - "cicd/gitlab-ci.yaml.ipynb"
         - "cicd/pipeline.ipynb"
         - "cicd/job.ipynb"
