@@ -13,6 +13,8 @@ format:
     monofont: D2Coding
     language:
       crossref-tbl-title: "표"
+    filters:
+      - clean-code.lua
 
 bibliography: references.bib
 reference-location: margin
